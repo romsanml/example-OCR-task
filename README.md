@@ -1,3 +1,3 @@
 # OCR
 
-В ноутбуке рассмотрены примеры библиотек для решения задачи OCR
+The notebook contains examples of libraries for solving the OCR task
