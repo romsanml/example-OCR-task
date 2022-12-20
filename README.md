@@ -1,3 +1,3 @@
 # OCR
 
-The notebook contains examples of libraries for solving the OCR task
+The notebook contains an example of solving an OCR task
